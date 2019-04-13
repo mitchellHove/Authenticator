@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "46761751055",
+    "firebase_url": "https://authenticator-9aa1a.firebaseio.com",
+    "project_id": "authenticator-9aa1a",
+    "storage_bucket": "authenticator-9aa1a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:46761751055:android:493d35a5606d4106",
+        "android_client_info": {
+          "package_name": "com.yes.authenticator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "46761751055-clu3jic6o5qu1bglt3jdcl0e11t22ssh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.yes.authenticator",
+            "certificate_hash": "feeb0dbd5e78d459583eda60b0bc8810a7a1880a"
+          }
+        },
+        {
+          "client_id": "46761751055-hdhbdodnth56evdrf12mandcdsgteg94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCn-wEBntkHj3AnPST0_GFoirSFnXhV2tQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "46761751055-hdhbdodnth56evdrf12mandcdsgteg94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
